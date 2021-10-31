@@ -1,7 +1,8 @@
 #                                                                                    NLW HEAT WEB|ReactJS
 
+![ecdc20d1-ecd2-4740-8b23-001f603f3d71](https://user-images.githubusercontent.com/74657202/139601770-8e121fa2-0f33-4043-abbc-7eaf65ea403f.png)
+                                                               
 
-![Design sem nome (7)](https://user-images.githubusercontent.com/74657202/139600479-01bde681-c0b6-4b97-bc79-02beda81b647.png)
 💻 Sobre o projeto:
 
 "NLW HEAT WEB" versão web para participantes do DoWhile compartilharem suas expectativas sobre o evento. Projeto feito durante a NLW promovido pela ROCKETSEAT
