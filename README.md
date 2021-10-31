@@ -37,6 +37,8 @@ O Layout do Aplicativo foi desenvolvido pelo Tiago Luchtenberg e está disponív
 
 <img src = https://img.shields.io/badge/Acessar%20Layout-Figma-purple/>
 
+
+
 🔈Agradecimentos:
 
 Esse projeto foi recriado por Daniella Barbosa, mas não seria possível sem os ensinamentos de toda a equipe insana da @Rocketseat.🚀
